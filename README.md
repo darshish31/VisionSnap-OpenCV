@@ -1,5 +1,5 @@
 # EX:02
-# IVisionSnap-OpenCV
+# VisionSnap-OpenCV
 
 # AIM
 
